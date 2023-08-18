@@ -6,7 +6,7 @@ Se mueve a una segunda carpeta en base a un tiempo t1 determinado.
 Luego que pasa un tiempo t2 se retorna a la carpeta inicial, finalmente si pasa un tiempo t3 se mueve a una tercera carpeta.
 
 Nombre del Servicio:
-El nombre que se mostrará en el Administrador de Servicio de Windows es "Mover archivos a carpeta según el tiempo transcurrido""
+El nombre que se mostrará en el Administrador de Servicio de Windows es "Mover archivos a carpeta según el tiempo transcurrido"
 
 Configuración:
 En el archivo App.config se deben establecer los valores para las variables de tiempo y rutas de las carpetas
@@ -26,3 +26,12 @@ En el archivo App.config se deben establecer los valores para las variables de t
     <!--ControlTime3 Expresado en minutos. -->
     <add key="ControlTime3" value="2" />
   </appSettings>
+
+  Ejecución:
+  - Abrir una ventana CMD
+  - Ir a C:\Windows\Microsoft.NET\Framework\v4.0.30319\
+  - Ejecutar InstallUtil.exe <RutaDelObjeto>\MoveFileByTime.exe
+  - Ir al administrador de servicios de Windows
+  - Buscar el servicio "Mover archivos a carpeta según el tiempo transcurrido"
+  - Iniciar servicio
+  - Si desea desinstalar, debe detener el servicio y ejcutar InstallUtil.exe -D <RutaDelObjeto>\MoveFileByTime.exe
