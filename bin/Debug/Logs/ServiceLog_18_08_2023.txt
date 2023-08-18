@@ -1,0 +1,23 @@
+18/08/2023 04:54:29 p. m. - Service is started at 18/08/2023 04:54:29 p. m.
+18/08/2023 04:54:29 p. m. - folder A : D:\\backtech\windows_service\\folder_a
+18/08/2023 04:54:29 p. m. - folder B : D:\\backtech\windows_service\\folder_b
+18/08/2023 04:54:29 p. m. - folder C : D:\\backtech\windows_service\\folder_c
+18/08/2023 04:54:29 p. m. - control time 1: 2 minutos
+18/08/2023 04:54:29 p. m. - control time 2: 2 minutos
+18/08/2023 04:54:29 p. m. - control time 3: 2 minutos
+18/08/2023 04:55:29 p. m. - Service is recall at 18/08/2023 04:55:29 p. m.
+18/08/2023 04:55:29 p. m. - D:\\backtech\windows_service\\folder_b creado exitosamente.
+18/08/2023 04:55:29 p. m. - D:\\backtech\windows_service\\folder_c creado exitosamente.
+18/08/2023 04:55:29 p. m. - El archivo D:\\backtech\windows_service\\folder_a\Nuevo Documento de texto.txt se mueve al D:\\backtech\windows_service\\folder_b
+18/08/2023 04:55:29 p. m. - El archivo D:\\backtech\windows_service\\folder_a\southtech_logo_300_104.jpg se mueve al D:\\backtech\windows_service\\folder_b
+18/08/2023 04:56:29 p. m. - Service is recall at 18/08/2023 04:56:29 p. m.
+18/08/2023 04:57:29 p. m. - Service is recall at 18/08/2023 04:57:29 p. m.
+18/08/2023 04:58:29 p. m. - Service is recall at 18/08/2023 04:58:29 p. m.
+18/08/2023 04:58:29 p. m. - El archivo D:\\backtech\windows_service\\folder_b\Nuevo Documento de texto.txt se mueve al D:\\backtech\windows_service\\folder_a
+18/08/2023 04:58:29 p. m. - El archivo D:\\backtech\windows_service\\folder_b\southtech_logo_300_104.jpg se mueve al D:\\backtech\windows_service\\folder_a
+18/08/2023 04:59:29 p. m. - Service is recall at 18/08/2023 04:59:29 p. m.
+18/08/2023 05:00:29 p. m. - Service is recall at 18/08/2023 05:00:29 p. m.
+18/08/2023 05:00:29 p. m. - El archivo D:\\backtech\windows_service\\folder_a\Nuevo Documento de texto.txt se mueve al D:\\backtech\windows_service\\folder_c
+18/08/2023 05:00:29 p. m. - El archivo D:\\backtech\windows_service\\folder_a\southtech_logo_300_104.jpg se mueve al D:\\backtech\windows_service\\folder_c
+18/08/2023 05:01:29 p. m. - Service is recall at 18/08/2023 05:01:29 p. m.
+18/08/2023 05:02:12 p. m. - Service is stopped at 18/08/2023 05:02:12 p. m.
